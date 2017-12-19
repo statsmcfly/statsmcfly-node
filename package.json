@@ -1,0 +1,15 @@
+{
+  "name": "statsmcfly",
+  "version": "1.0.0",
+  "description": "This a module to make interacting with the [statsmcfly.com](http://statsmcfly.com) API easy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roger Stringer",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.2.1",
+    "request": "^2.81.0"
+  }
+}
